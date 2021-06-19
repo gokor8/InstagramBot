@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Vazgen\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Vazgen\\.nuget\\packages"
+    ]
+  }
+}
